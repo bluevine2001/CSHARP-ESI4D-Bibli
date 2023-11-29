@@ -1,0 +1,14 @@
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/bin/Debug/net8.0/Bibliotheque
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/bin/Debug/net8.0/Bibliotheque.deps.json
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/bin/Debug/net8.0/Bibliotheque.runtimeconfig.json
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/bin/Debug/net8.0/Bibliotheque.dll
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/bin/Debug/net8.0/Bibliotheque.pdb
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/Bibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/Bibliotheque.AssemblyInfoInputs.cache
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/Bibliotheque.AssemblyInfo.cs
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/Bibliotheque.csproj.CoreCompileInputs.cache
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/Bibliotheque.dll
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/refint/Bibliotheque.dll
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/Bibliotheque.pdb
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/Bibliotheque.genruntimeconfig.cache
+/Users/oussamabechichi/Projets_web/BibliothequeCsharp/Bibliotheque/obj/Debug/net8.0/ref/Bibliotheque.dll

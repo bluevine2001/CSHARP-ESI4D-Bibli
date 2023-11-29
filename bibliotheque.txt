@@ -1,0 +1,59 @@
+{
+  "Livres": [
+    {
+      "Auteur": {
+        "Nom": "James Dashner"
+      },
+      "Date": "10/10/2010",
+      "Genre": "genre 1",
+      "Titre": "test1",
+      "Langue": "fr",
+      "Stock": 100,
+      "Prix": 14
+    },
+    {
+      "Auteur": {
+        "Nom": "Suzanne Collins"
+      },
+      "Date": "10/10/2010",
+      "Genre": "fiction",
+      "Titre": "hunger games",
+      "Langue": "fr",
+      "Stock": 100,
+      "Prix": 14
+    },
+    {
+      "Auteur": {
+        "Nom": "robert szuki"
+      },
+      "Date": "10/10/2000",
+      "Genre": "Education",
+      "Titre": "Pere riche, pere pauvre",
+      "Langue": "fr",
+      "Stock": 200,
+      "Prix": 25
+    }
+  ],
+  "Auteurs": [
+    {
+      "Nom": "James Dashner"
+    },
+    {
+      "Nom": "Suzanne Collins"
+    },
+    {
+      "Nom": "robert szuki"
+    }
+  ],
+  "Commandes": [
+    {
+      "Statut": "expedie",
+      "NomClient": "BECHICHI Oussama",
+      "AdresseClient": "11 rue jeunet",
+      "DateCommande": "10/11/2023",
+      "DateLivraison": "10/12/2023",
+      "Prix": 0,
+      "Items": []
+    }
+  ]
+}
